@@ -9,13 +9,13 @@
 
 ---
 
-### About
+### ABOUT
 
 I'm a DevOps engineer with a focus on **infrastructure engineering, automation, and reliable production environments**.
 
 At **NYX**, I lead production and build the infrastructure for a persistent, multi-planet **Star Wars RP** project powered by **nanos world** and developed using **Unreal Engine 5**. My focus is on server reliability, automated deployments, and maintaining a scalable infrastructure.
 
-### Tools & Technologies
+### TOOLS & TECHNOLOGIES
 
 <p align="center"><sub><b>OPERATING SYSTEMS &amp; SHELL</b></sub></p>
 <p align="center">
