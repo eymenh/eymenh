@@ -1,8 +1,5 @@
 
 <div align="center">
-
-# eymen
-
 ### Production Lead & DevOps @NYX
 
 <sub>BUILD · AUTOMATE · DEPLOY</sub>
@@ -13,7 +10,7 @@
 
 ### About
 
-I work on **Linux infrastructure, automation, and production systems**.
+I'm a DevOps engineer with a focus on **infrastructure engineering, automation, and reliable production environments**.
 
 At **NYX**, I lead production and build the infrastructure for a persistent, multi-planet **Star Wars RP** project powered by **nanos world** and developed using **Unreal Engine 5**. My focus is on server reliability, automated deployments, and maintaining a scalable infrastructure.
 
