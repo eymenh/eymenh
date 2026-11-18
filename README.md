@@ -1,7 +1,7 @@
 
 <div align="center">
   
-### Production Lead & DevOps @NYX
+### Production Lead & DevOps at NYX
 
 <sub>BUILD · AUTOMATE · DEPLOY</sub>
 
